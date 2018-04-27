@@ -15,7 +15,7 @@ documentation and source code.
 | --- | --- |
 | **Lead Developer(s)** | Stephen P. Vickers |
 | **Development Status** | Production/Stable |
-| **License** | GNU Lesser General Public License (LGPL) |
+| **License** | GNU General Public License (GPL) |
 | **Programming Language** | Java |
 | **Target Platform** | Blackboard Learn 9.1 SP10 (or later) |
 
